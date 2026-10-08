@@ -1,0 +1,14 @@
+C:\Users\Mouse\OneDrive\Desktop\Orbits\bin\Debug\net10.0\Orbits.exe
+C:\Users\Mouse\OneDrive\Desktop\Orbits\bin\Debug\net10.0\Orbits.deps.json
+C:\Users\Mouse\OneDrive\Desktop\Orbits\bin\Debug\net10.0\Orbits.runtimeconfig.json
+C:\Users\Mouse\OneDrive\Desktop\Orbits\bin\Debug\net10.0\Orbits.dll
+C:\Users\Mouse\OneDrive\Desktop\Orbits\bin\Debug\net10.0\Orbits.pdb
+C:\Users\Mouse\OneDrive\Desktop\Orbits\obj\Debug\net10.0\Orbits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mouse\OneDrive\Desktop\Orbits\obj\Debug\net10.0\Orbits.AssemblyInfoInputs.cache
+C:\Users\Mouse\OneDrive\Desktop\Orbits\obj\Debug\net10.0\Orbits.AssemblyInfo.cs
+C:\Users\Mouse\OneDrive\Desktop\Orbits\obj\Debug\net10.0\Orbits.csproj.CoreCompileInputs.cache
+C:\Users\Mouse\OneDrive\Desktop\Orbits\obj\Debug\net10.0\Orbits.dll
+C:\Users\Mouse\OneDrive\Desktop\Orbits\obj\Debug\net10.0\refint\Orbits.dll
+C:\Users\Mouse\OneDrive\Desktop\Orbits\obj\Debug\net10.0\Orbits.pdb
+C:\Users\Mouse\OneDrive\Desktop\Orbits\obj\Debug\net10.0\Orbits.genruntimeconfig.cache
+C:\Users\Mouse\OneDrive\Desktop\Orbits\obj\Debug\net10.0\ref\Orbits.dll
